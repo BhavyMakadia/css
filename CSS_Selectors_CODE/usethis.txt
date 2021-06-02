@@ -1,0 +1,32 @@
+.tag
+
+.post a 
+
+h1,h2 
+
+#signup
+
+footer a
+
+h2 + button
+
+footer > a
+
+input[type="password"]
+
+a[href*="google"]
+
+.post a:hover
+
+.post button:active 
+
+.post:nth-of-type(2n)
+
+h2::first-letter
+
+p::first-line
+
+p::selection 
+
+.post button:hover 
+button 
